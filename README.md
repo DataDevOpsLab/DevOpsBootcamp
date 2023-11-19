@@ -1,2 +1,2 @@
 # DevOpsBootcamp
-Repo para el Bootcamp DevOps con Ross. Edicion IV 2023.
+Clase 2: Linux Bash
